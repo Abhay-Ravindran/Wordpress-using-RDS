@@ -1,6 +1,6 @@
 # Wordpress-using-RDS
 
-Complete step-by-step documentation: [Google Docs link]
+Complete step-by-step documentation: [Google Docs link](https://docs.google.com/document/d/1Ki9xuPxhZPh0HM3PdFVKYG7zkP7jxPubnVC0SLERVNs/edit?tab=t.0)
 
 WORDPRESS HOSTING WITH AWS RDS
 
